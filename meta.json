@@ -1,0 +1,26 @@
+{
+  "repo": "sony-vegas-full",
+  "product": "Sony Vegas Full",
+  "kind": "video",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "video-editing",
+  "topics": [
+    "sony-vegas-full",
+    "sony-desktop",
+    "sony-windows",
+    "video-editing",
+    "timeline-editing",
+    "color-grading",
+    "video-export",
+    "content-creation",
+    "youtube-editing",
+    "desktop-video",
+    "windows-video-editor",
+    "media-production",
+    "render-workflow"
+  ],
+  "site": "zentool.art"
+}
